@@ -24,13 +24,20 @@ Using this mode you can watch each swap of variables with interaction. Press s t
 This mode will run the selected algorithm with predefined constant speed.
 
 # Menu
-To start the sorting press s
-To pause the soritng press p
-To randamize the inputs press r
-To change\select the algorithm press c
+* To start the sorting press s
+
+* To pause the soritng press p
+
+* To randamize the inputs press r
+
+* To change\select the algorithm press c
+
 To set interactive mode press i
+
 To set outstanding mode press o
-To set new random color pressz which also randomize the inputs
+
+To set new random color press z which also randomize the inputs
+
 Press <ESC> key to terminate the application
   
 # Algorithms
