@@ -30,12 +30,14 @@ Press <ESC> key to terminate the application
   
 # Algorithms
 Bubble Sort
+
 Selection Sort
+
 Insertion Srot
+
 Ripple Sort (Another version of Bubble sort)
+
 Comb Sort (Another version of Bubble sort)
-Heap Sort
-Merge Sort
 
 # ScreenShots
  
