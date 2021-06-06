@@ -3,7 +3,7 @@ Visualization of some popular sorting algorithms using open-GL framework.
 # ABOUT SORTING
 Sorting a sequence of items is one of the pillar of Computer Science. A sorting algorithm is an algorithm that organizes elements of a sequence in a certain order. Since the early days of computing, the sorting problem has been one of the main battlefields for researchers. The reason behind this is not only the need of solving a very common task but also the challenge of solving a complex problem in the most efficient way.
 
-This project is an attempt to visualize and help to understand how some of the most famous sorting algorithms work. This project provides two standpoints to look at algorithms, one is more artistic (apologies to any real artist out there), the other is more analytical aiming at explaining algorithm step by step.
+This project is an attempt to visualize and help to understand how some of the most famous sorting algorithms work. This project aims to provides two standpoints to look at algorithms one is artistic , the other is more analytical aiming at explaining algorithm step by step.
 
 This project does not want to teach the theory of sorting algorithms, there are amazing resources, books and courses for this purpose. Sorting Visualizer program is for the ones who want to see these algorithms under a different light and theme and hopefully appreciate the processing and brain power behind these piece of genius that in many ways have changed the way we live.
 
@@ -38,6 +38,10 @@ Insertion Srot
 Ripple Sort (Another version of Bubble sort)
 
 Comb Sort (Another version of Bubble sort)
+  
+Heap Sort
+
+Merge Sort
 
 # ScreenShots
  
