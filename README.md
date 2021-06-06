@@ -41,7 +41,7 @@ This project does not want to teach the theory of sorting algorithms, there are 
 
 * Selection Sort
 
-* Insertion Srot
+* Insertion Sort
 
 * Ripple Sort (Another version of Bubble sort)
 
