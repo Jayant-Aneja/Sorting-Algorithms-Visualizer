@@ -8,20 +8,17 @@ This project is an attempt to visualize and help to understand how some of the m
 This project does not want to teach the theory of sorting algorithms, there are amazing resources, books and courses for this purpose. Sorting Visualizer program is for the ones who want to see these algorithms under a different light and theme and hopefully appreciate the processing and brain power behind these piece of genius that in many ways have changed the way we live.
 
 # Features
-Provides random theme for every run
+* Provides random theme for every run
 
-Two modes for interaction
+* Two modes for interaction
 
-Keyboard interface
+* Keyboard interface
 
-About Mode
+* About Mode
 
-Interactive Mode
+* Interactive Mode:- Using this mode you can watch each swap of variables with interaction. Press s to go to next swap.
 
-Using this mode you can watch each swap of variables with interaction. Press s to go to next swap.
-
-# Outstanding Mode
-This mode will run the selected algorithm with predefined constant speed.
+* Outstanding Mode:- This mode will run the selected algorithm with predefined constant speed.
 
 # Menu
 * To start the sorting press s
@@ -29,31 +26,30 @@ This mode will run the selected algorithm with predefined constant speed.
 * To pause the soritng press p
 
 * To randamize the inputs press r
-
 * To change\select the algorithm press c
 
-To set interactive mode press i
+* To set interactive mode press i
 
-To set outstanding mode press o
+* To set outstanding mode press o
 
-To set new random color press z which also randomize the inputs
+* To set new random color press z which also randomize the inputs
 
-Press <ESC> key to terminate the application
+* Press <ESC> key to terminate the application
   
 # Algorithms
-Bubble Sort
+* Bubble Sort
 
-Selection Sort
+* Selection Sort
 
-Insertion Srot
+* Insertion Srot
 
-Ripple Sort (Another version of Bubble sort)
+* Ripple Sort (Another version of Bubble sort)
 
-Comb Sort (Another version of Bubble sort)
+* Comb Sort (Another version of Bubble sort)
   
-Heap Sort
+* Heap Sort
 
-Merge Sort
+* Merge Sort
 
 # ScreenShots
  
