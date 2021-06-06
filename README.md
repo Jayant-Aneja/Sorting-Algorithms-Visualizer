@@ -9,10 +9,15 @@ This project does not want to teach the theory of sorting algorithms, there are 
 
 # Features
 Provides random theme for every run
+
 Two modes for interaction
+
 Keyboard interface
+
 About Mode
+
 Interactive Mode
+
 Using this mode you can watch each swap of variables with interaction. Press s to go to next swap.
 
 # Outstanding Mode
