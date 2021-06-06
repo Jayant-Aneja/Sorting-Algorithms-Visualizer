@@ -36,5 +36,4 @@ Ripple Sort (Another version of Bubble sort)
 Comb Sort (Another version of Bubble sort)
 Heap Sort
  
-![image](https://user-images.githubusercontent.com/84595221/120917328-4f3da480-c6cc-11eb-82e7-02c3f1990c7c.png)
 
