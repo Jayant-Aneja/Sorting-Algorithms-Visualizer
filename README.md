@@ -35,5 +35,6 @@ Insertion Srot
 Ripple Sort (Another version of Bubble sort)
 Comb Sort (Another version of Bubble sort)
 Heap Sort
+Merge Sort
  
 
